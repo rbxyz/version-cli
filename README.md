@@ -107,5 +107,5 @@ Contribuições são bem-vindas! Por favor, leia as diretrizes de contribuição
 
 Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
-Copyright (c) 2025 rbueno
+Copyright (c) 2025 rbxyz
 
