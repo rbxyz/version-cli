@@ -1,0 +1,24 @@
+{
+  "name": "version-cli",
+  "version": "1.0.0",
+  "description": "CLI para gerenciar versões de projetos",
+  "main": "dist/cli.js",
+  "bin": {
+    "version": "./dist/cli.js"
+  },
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/cli.js",
+    "dev": "tsc && node dist/cli.js",
+    "install-global": "npm install -g .",
+    "uninstall-global": "npm uninstall -g version-cli"
+  },
+  "keywords": ["cli", "version", "semver", "bump"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "typescript": "^5.3.3"
+  }
+}
