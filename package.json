@@ -14,8 +14,13 @@
     "uninstall-global": "npm uninstall -g version-cli"
   },
   "keywords": ["cli", "version", "semver", "bump"],
-  "author": "",
+  "author": "rbueno",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rbueno/version-cli.git"
+  },
+  "homepage": "https://github.com/rbueno/version-cli#readme",
   "dependencies": {},
   "devDependencies": {
     "@types/node": "^20.0.0",

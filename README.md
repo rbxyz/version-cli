@@ -99,7 +99,13 @@ version-cli/
 - Node.js 16+
 - npm ou yarn
 
+## Contribuição
+
+Contribuições são bem-vindas! Por favor, leia as diretrizes de contribuição antes de enviar pull requests.
+
 ## Licença
 
-MIT
+Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
+Copyright (c) 2025 rbueno
 
